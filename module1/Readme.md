@@ -40,11 +40,15 @@ pricing.
 
 ![alt text](image-6.png)
 
-- Amazon web services is a secure cloud platform that offers a broad set of global cloud based product
+- Amazon web services is a secure cloud platform that offers a broad set of global cloud based product. AWS provides you with on-demandaccessto compute, storage, network, database, and other IT resources and management tools.
 
 ![alt text](image-7.png)
 
-### Some Compute service
+## Some AWS services
+
+![alt text](image-9.png)
+
+### Some Compute services
 
 - Amazon EC2 - When you need full control over the operating system, specific software configurations, or legacy applications
 - AWS Lambda - When you want to run code and not manage or provision servers
