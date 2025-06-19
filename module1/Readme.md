@@ -66,3 +66,14 @@ pricing.
 - AWS management console
 - AWS CLI
 - SDKs
+
+## AWS Cloud Adoption Framework (AWS CAF)
+
+AWS CAF is organized into six perspectives. Perspectives consist of sets of capabilities.
+
+- Business
+- People
+- Governance
+- Platform
+- Security
+- Operation
