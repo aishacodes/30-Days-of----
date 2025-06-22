@@ -5,11 +5,13 @@ pricing.
 
 ![alt text](image.png)
 
+![alt text](image-10.png)
+
 ## Cloud service models
 
-- IAAS used by system admins : basic building blocks for cloud information technology, provides networking features, storage sspace
-- PAAS used by developers: removes need to manage underlying infrastructure, through automation. It allows you to focus on deployment and management
-- SAAS everyone, end users: provides you with complete product
+- IAAS used by system admins : basic building blocks for cloud information technology, provides networking features, storage sspace. e.g AWS, Azure
+- PAAS used by developers: removes need to manage underlying infrastructure, through automation. It allows you to focus on deployment and management. e.g heroku, Google App Engine
+- SAAS everyone, end users: provides you with complete product. e.g Gmail, microsoft office
 
 ![alt text](image-2.png)
 ![alt text](image-3.png)
@@ -19,9 +21,11 @@ pricing.
 
 ## Cloud computing deployment model
 
-- Cloud: Fully deployed in the cloud. All part of application runs in the cloud
-- Hybrid: Deployment is in such a way that to connect existing infrastructure and applications to cloud-basedd resources. E.g cloud and existing on-premises resources
-- On premisis ( private cloud): Uses virtualization and resource management tools
+- Public Cloud: Fully deployed in the cloud.Fully utilizing cloud computing. All part of application runs in the cloud. Example: Using Google Drive or deploying an app on Vercel.
+- Hybrid: Deployment is in such a way that to connect existing infrastructure and applications to cloud-basedd resources. E.g cloud and existing on-premises resources. Example: A hospital using a private cloud for patient data and public cloud for running its website.
+- On premisis ( private cloud): Uses virtualization and resource management tools. Everything built on the company's data center. Example: A bank running its own cloud server.
+
+![alt text](image-11.png)
 
 ![alt text](image-5.png)
 
