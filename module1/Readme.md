@@ -1,4 +1,4 @@
-## Introduction to cloud computing
+# Introduction to cloud computing
 
 Cloud computing is the delivery of technology services—like computing power, storage, databases,applications and networking over the internet, with pay-as-you-go
 pricing.
